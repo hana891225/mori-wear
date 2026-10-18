@@ -2,7 +2,9 @@
 
 繁體中文服飾概念商店，以奶油白與森林綠為主色，支援桌面與手機瀏覽。
 
-網站：https://mori-wear-atelier.coralgecko.chatgpt.site （目前為私人網站）
+公開網站：https://hana891225.github.io/mori-wear/
+
+推送至 `main` 分支後，GitHub Actions 會自動將 `dist/` 部署至 GitHub Pages。
 
 ## 功能
 
